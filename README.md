@@ -13,9 +13,9 @@ Counter che aggiunge e toglie 1
 #### Comandi 
 
 <ul>
-<u> Increase</u> : mi permette di aumentare  di 1
-<u>Decrease</u> : mi permette di diminuire di 1
-<u>Reset</u> : resetta tutto a 0
+<u> Increase</u> : mi permette di aumentare  di 1 <br>
+<u>Decrease</u> : mi permette di diminuire di 1 <br>
+<u>Reset</u> : resetta tutto a 0 <br>
 </ul>
 <br>
 
