@@ -26,14 +26,11 @@ Counter che aggiunge e toglie 1
 ```
 <br>
 
-<p>Ho creato i pulsanti che mi permettono di aggiungere, togliere e resettare il valore.
-Decrease: diminuisce di 1 (-1) con HTML
-Reset: porta tutto a 0
-Increase: aumenta di 1 (+1)
+<p>Ho creato i <b>pulsanti</b> che mi permettono di aggiungere, togliere e resettare il valore  con HTML.
 </p>
 <br>
-<p>Con CSS ho migliorato l'interfaccia del sito</p>
+<p>Con CSS ho migliorato l'<b>interfaccia</b> del sito</p>
 <br>
-<p>JavaScript per aggiungere la logica che incrementa e decrementa il valore del Counter in risposta ai click sui pulsanti, e per ripristinare il valore a zero quando viene premuto il pulsante di reset.</p>
+<p>JavaScript per aggiungere la <b>logica</b>che incrementa e decrementa il valore del Counter in risposta ai click sui pulsanti, e per ripristinare il valore a zero quando viene premuto il pulsante di reset.</p>
 
 
