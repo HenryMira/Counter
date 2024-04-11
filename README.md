@@ -26,6 +26,4 @@ Counter che aggiunge e toglie 1
 ```
 <br>
 
-##### Risultato finale
 
-![Screenshot](counter.png)
