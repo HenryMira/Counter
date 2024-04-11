@@ -31,6 +31,6 @@ Counter che aggiunge e toglie 1
 <br>
 <p>Con CSS ho migliorato l'<b>interfaccia</b> del sito</p>
 <br>
-<p>JavaScript per aggiungere la <b>logica</b>che incrementa e decrementa il valore del Counter in risposta ai click sui pulsanti, e per ripristinare il valore a zero quando viene premuto il pulsante di reset.</p>
+<p>JavaScript per aggiungere la <b>logica</b> che incrementa e decrementa il valore del Counter in risposta ai click sui pulsanti, e per ripristinare il valore a zero quando viene premuto il pulsante di reset.</p>
 
 
